@@ -30,7 +30,7 @@
 </head>
 <body>
 
-    <header id="header">
+    <header class="header">
         <div class="inner clearfix">
             <h1><a href="{{ "index"|link }}" id="logo">{{ site_title }}</a></h1>
             <nav>
@@ -45,13 +45,13 @@
         </div>
     </header>
 
-    <section id="container">
+    <section class="container">
         <div class="inner">
             {{ content }}
         </div>
     </section>
 
-    <footer id="footer">
+    <footer class="footer">
         <div class="inner">
             <div class="social">
                 {% for social in meta.social %}
