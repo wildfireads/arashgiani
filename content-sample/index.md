@@ -1,6 +1,6 @@
 ---
-Title: Welcome
-Description: Pico is a stupidly simple, blazing fast, flat file CMS.
+Title: Arash Giani
+Description: Personal Website of Arash Giani
 social:
     - title: Visit us on GitHub
       url: https://github.com/picocms/Pico
@@ -9,10 +9,5 @@ social:
       url: https://webchat.freenode.net/?channels=%23picocms
       icon: chat
 ---
-
-## Welcome to Pico
-
-Congratulations, you have successfully installed [Pico](http://picocms.org/).
-%meta.description% <!-- replaced by the above Description meta header -->
 
 
