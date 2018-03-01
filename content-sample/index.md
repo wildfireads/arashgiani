@@ -1,5 +1,5 @@
 ---
-Title: Arash Giani
+Title: Home
 Description: Personal Website of Arash Giani
 social:
     - title: Visit us on GitHub
