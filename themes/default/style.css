@@ -99,8 +99,8 @@ select:focus {
 html { height: 100%; }
 
 body {
-    font: 16px/2em Helvetica, Arial, Helvetica, 'Open Sans', sans-serif;
-    color: #444;
+    font: 16px/1.8em Helvetica, Arial, Helvetica, 'Open Sans', sans-serif;
+    color: #2d2d2d;
     background: #fff;
     -webkit-font-smoothing: antialiased;
     display: flex;
