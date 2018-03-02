@@ -25,9 +25,16 @@
             </div>
         </div>
 
-
-
-
+        <div class="container" style="background-color: #fafafa; text-align: center; margin-bottom: 50px;">
+            <div class="row">
+                <div class="col-2">facebook</div>
+                <div class="col-2">Twitter</div>
+                <div class="col-2">Instagram</div>
+                <div class="col-2">Medium</div>
+                <div class="col-2">Behance</div>
+                <div class="col-2">GITHub</div>
+            </div>
+        </div>
 
 
 
