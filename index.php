@@ -26,6 +26,15 @@
  
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
   Photography
+
+
+ <div class="row">
+  <div class="col-4">col-4</div>
+  <div class="col-4">col-4</div>
+  <div class="col-4">col-4</div>
+</div>
+
+
 </div>
 
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
