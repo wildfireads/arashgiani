@@ -23,47 +23,10 @@
   Bio
 </div>
 
-<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
-  
-<div class="row" style=" margin-bottom: 25px; padding-top:25px;">
-
- <div class="col"><h2> Photography </h2></div>
-<div class="col" style="text-align: right;"><span class="glyphicon glyphicon glyphicon-th" aria-hidden="true"></span></div>
-
-</div>
  
-
-<div class="row" style="margin-bottom: 25px;">
-    <div class="col" style="background-color: yellow; height: 200px;"> 1 of 3 </div>
-    <div class="col" style="background-color: red; height: 200px;"> 2 of 3 </div>
-    <div class="col" style="background-color: yellow; height: 200px;"> 3 of 3 </div>
-    <div class="col" style="background-color: red; height: 200px;"> 2 of 3 </div>
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
+  Photography
 </div>
-
-<div class="row" style="margin-bottom: 25px;">
-    <div class="col" style="background-color: red; height: 200px;"> 2 of 3 </div>
-    <div class="col" style="background-color: yellow; height: 200px;"> 1 of 3 </div>
-    <div class="col" style="background-color: red; height: 200px;"> 2 of 3 </div>
-    <div class="col" style="background-color: yellow; height: 200px;"> 3 of 3 </div>
-</div>
-
-<div class="row" style="margin-bottom: 25px;">
-    <div class="col" style="background-color: yellow; height: 200px;"> 1 of 3 </div>
-    <div class="col" style="background-color: red; height: 200px;"> 2 of 3 </div>
-    <div class="col" style="background-color: yellow; height: 200px;"> 3 of 3 </div>
-    <div class="col" style="background-color: red; height: 200px;"> 2 of 3 </div>
-</div>
-
-</div>
-
-
-
-
-
-
-
-
-
 
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
   Design
