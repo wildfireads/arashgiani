@@ -28,7 +28,7 @@
 <div class="row" style=" margin-bottom: 25px; padding-top:25px;">
 
  <div class="col"><h2> Photography </h2></div>
-<div class="col" style="text-align: right;">View All</div>
+<div class="col" style="text-align: right;"><span class="glyphicon glyphicon glyphicon-th" aria-hidden="true"></span></div>
 
 </div>
  
