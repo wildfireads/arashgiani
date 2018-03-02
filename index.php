@@ -45,7 +45,7 @@
 
 
 
-<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
+<div class="container" style="background-color: #fafafa; text-align: center; margin-bottom: 50px;">
 
 
  <div class="row">
