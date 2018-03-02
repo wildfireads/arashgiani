@@ -33,25 +33,34 @@
 
 <button type="button" class="btn btn-primary btn-lg">Large button</button>
 <button type="button" class="btn btn-secondary btn-lg">Large button</button>
-
-
 </br>
 </br>
 
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-
+ 
 
 
 </div>
 </div>
 </div>
+
+
+
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
+
+
+ <div class="row">
+  <div class="col-2">facebook</div>
+  <div class="col-2">Twitter</div>
+  <div class="col-2">Instagram</div>
+  <div class="col-2">LinkedIn</div>
+  <div class="col-2">Behance</div>
+  <div class="col-2">GITHub</div>
+</div>
+
+
+</div>
+
+
 
  
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
