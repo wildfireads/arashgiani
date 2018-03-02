@@ -36,7 +36,25 @@
             </div>
         </div>
 
+        <div class="container" style="background-color: #fafafa; text-align: center; margin-bottom: 50px;">
+            <div class="row" style="margin-bottom: 25px">
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+            </div>
 
+           <div class="row" style="margin-bottom: 25px">
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+            </div>
+
+           <div class="row" style="margin-bottom: 25px">
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: yellow">Thumbnail</div>
+            </div>
+        </div>
 
 
 
