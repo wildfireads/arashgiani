@@ -16,21 +16,23 @@
 
 <div class="header">
 
+  <div class="container">
 
-<h1>Arash Giani</h1>
+  <h1>Arash Giani</h1>
 
 
-<ul>
+  <ul>
 
-<li>Home</li>
-<li>Photography</li>
-<li>Design</li>
-<li>Development</li>
-<li>Contact</li>  
+  <li>Home</li>
+  <li>Photography</li>
+  <li>Design</li>
+  <li>Development</li>
+  <li>Contact</li>  
+    
+  </ul>
+
+  </div>
   
-</ul>
-
-
 </div>
 
 
