@@ -28,12 +28,12 @@
 
 <div class="row">
     <div class="col" style="background-color: yellow"> 1 of 2 </div>
-    <div class="col" style="background-color: yellow"> 2 of 2 </div>
+    <div class="col" style="background-color: red"> 2 of 2 </div>
 </div>
 
 <div class="row">
     <div class="col" style="background-color: yellow"> 1 of 3 </div>
-    <div class="col" style="background-color: yellow"> 2 of 3 </div>
+    <div class="col" style="background-color: red"> 2 of 3 </div>
     <div class="col" style="background-color: yellow"> 3 of 3 </div>
 </div>
 
