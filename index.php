@@ -25,6 +25,7 @@
 <li>Home</li>
 <li>Photography</li>
 <li>Design</li>
+<li>Development</li>
 <li>Contact</li>  
   
 </ul>
