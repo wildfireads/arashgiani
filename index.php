@@ -25,9 +25,12 @@
 
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
   
+<div class="row" style=" margin-bottom: 25px; padding-top:25px;">
 
- <h2 style=" margin-bottom: 25px; padding-top:25px;"> Photography </h2>
+ <div class="col"><h2> Photography </h2></div>
+<div class="col">View All</div>
 
+</div>
  
 
 <div class="row" style="margin-bottom: 25px;">
