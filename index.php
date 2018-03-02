@@ -25,7 +25,7 @@
 
 
 
-<div class="container">
+<div class="container" style="background-color: #ebebeb; padding-top: 30px; padding-bottom: 30px;">
   Footer
 </div>
 
