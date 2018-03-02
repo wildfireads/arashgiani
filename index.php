@@ -19,11 +19,25 @@
 </div>
 
 
-<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 750px">
-  Body
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
+  Bio
 </div>
 
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
+  Photography
+</div>
 
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
+  Design
+</div>
+
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
+  Development
+</div>
+
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
+  Contact
+</div>
 
 <div class="container" style="background-color: #ebebeb; padding-top: 30px; padding-bottom: 30px;">
   Footer
