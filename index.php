@@ -19,7 +19,7 @@
 </div>
 
 
-<div class="container" style="background-color: #fafafa; margin-bottom: 50px;">
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 750px">
   Body
 </div>
 
