@@ -20,7 +20,7 @@
 
 
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
-  Bio
+  <h2>Biography</h2>
 
 <p>Nunc commodo placerat leo, vitae semper arcu accumsan tincidunt. Duis ullamcorper quam non neque posuere, nec sollicitudin neque eleifend. Cras efficitur in massa in ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque maximus libero odio, bibendum egestas velit placerat fermentum. Suspendisse lectus urna, varius id purus a, hendrerit efficitur felis. In malesuada egestas nulla, mollis consectetur risus consequat nec. In lobortis, diam quis ornare scelerisque, enim diam tincidunt velit, ac vehicula purus massa eu arcu.</p>
 
