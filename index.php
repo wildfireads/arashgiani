@@ -29,17 +29,22 @@
  
 
 <div class="row">
-    <div class="col" style="background-color: yellow"> 1 of 3 </div>
-    <div class="col" style="background-color: red"> 2 of 3 </div>
-    <div class="col" style="background-color: yellow"> 3 of 3 </div>
-    <div class="col" style="background-color: red"> 2 of 3 </div>
+    <div class="col" style="background-color: yellow; height: 350px;"> 1 of 3 </div>
+    <div class="col" style="background-color: red; height: 350px;"> 2 of 3 </div>
+    <div class="col" style="background-color: yellow; height: 350px;"> 3 of 3 </div>
+    <div class="col" style="background-color: red; height: 350px;"> 2 of 3 </div>
+</div>
+
 </div>
 
 
 
 
 
-</div>
+
+
+
+
 
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
   Design
