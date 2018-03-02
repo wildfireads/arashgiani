@@ -72,7 +72,22 @@
         </div>
 
 
+        <div class="container" style="background-color: #fafafa; text-align: center; margin-bottom: 50px;">
+            <h2>Motion</h2>
+            <p>Curabitur non imperdiet risus, sit amet facilisis arcu. Suspendisse potenti. Pellentesque luctus enim ut ex mattis consequat. Sed lobortis libero nisl, non venenatis ex imperdiet ut. Vivamus eget aliquet nunc. Nullam et eros in ipsum egestas semper rhoncus accumsan magna.</p>
+            </br>
+                <div class="row" style="margin-bottom: 25px">
+                <div class="col-4" style="height: 200px; background-color: #aaa">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: #bbb">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: #ccc">Thumbnail</div>
+            </div>
 
+            <div class="row" style="margin-bottom: 25px">
+                <div class="col-4" style="height: 200px; background-color: #aaa">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: #bbb">Thumbnail</div>
+                <div class="col-4" style="height: 200px; background-color: #ccc">Thumbnail</div>
+            </div>
+        </div>
 
 
 
