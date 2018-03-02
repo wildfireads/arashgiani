@@ -29,6 +29,14 @@
 
 <p>Nunc commodo placerat leo, vitae semper arcu accumsan tincidunt. Duis ullamcorper quam non neque posuere, nec sollicitudin neque eleifend. Cras efficitur in massa in ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-info">Info</button>
 
 </div>
 </div>
