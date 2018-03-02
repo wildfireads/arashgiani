@@ -21,7 +21,7 @@
 
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
   
-  <h2>About Arash Giani</h2>
+  <h2>Abstract</h2>
   
  <div class="row">
  	<div class="col-8" style="padding-right: 25px;">
