@@ -36,10 +36,10 @@
 </div>
 
 <div class="row">
-    <div class="col" style="background-color: yellow; height: 200px;"> 3 of 3 </div>
     <div class="col" style="background-color: red; height: 200px;"> 2 of 3 </div>
     <div class="col" style="background-color: yellow; height: 200px;"> 1 of 3 </div>
     <div class="col" style="background-color: red; height: 200px;"> 2 of 3 </div>
+    <div class="col" style="background-color: yellow; height: 200px;"> 3 of 3 </div>
 </div>
 
 <div class="row">
