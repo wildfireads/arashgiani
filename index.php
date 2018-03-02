@@ -9,7 +9,7 @@
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     </head>
-    <body>
+    <body style="background-color: #2d2d2d;">
 
         <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
             <h2>Abstrakt</h2>
