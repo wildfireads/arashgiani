@@ -24,7 +24,9 @@
 </div>
 
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px; min-height: 350px">
-  Photography
+  
+
+ <h2 style="text-align: center;"> Photography </h2>
 
  
 
