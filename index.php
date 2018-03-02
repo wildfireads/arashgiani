@@ -14,7 +14,24 @@
   <body>
  
 
+<div class="header">
 
+
+Arash Giani
+
+
+<ul>
+
+<li>Home</li>
+<li>Photography</li>
+<li>Design</li>
+<li>Blog</li>
+<li>Repo</li>
+  
+</ul>
+
+
+</div>
 
 
 
