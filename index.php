@@ -27,19 +27,26 @@
  	<div class="col-7" style="padding-right: 25px;">
 <p>Nulla facilisi. Donec suscipit condimentum lectus malesuada sollicitudin. Pellentesque varius, nisi non posuere congue, erat odio mattis libero, ut efficitur arcu velit posuere erat. Phasellus eget lorem a risus bibendum finibus cursus facilisis neque. Nam orci turpis, dictum eu blandit vel, ultricies in ligula. Suspendisse sodales mi eget purus finibus dignissim. Aliquam ultrices lorem metus, at consequat justo hendrerit feugiat.</p>
 
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
-<button type="button" class="btn btn-info btn-sm">Info</button>
+
 
 <p>Nunc commodo placerat leo, vitae semper arcu accumsan tincidunt. Duis ullamcorper quam non neque posuere, nec sollicitudin neque eleifend. Cras efficitur in massa in ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 
 <button type="button" class="btn btn-primary btn-lg">Large button</button>
 <button type="button" class="btn btn-secondary btn-lg">Large button</button>
+
+
+</br>
+</br>
+
+<button type="button" class="btn btn-info btn-sm">Info</button>
+<button type="button" class="btn btn-info btn-sm">Info</button>
+<button type="button" class="btn btn-info btn-sm">Info</button>
+<button type="button" class="btn btn-info btn-sm">Info</button>
+<button type="button" class="btn btn-info btn-sm">Info</button>
+<button type="button" class="btn btn-info btn-sm">Info</button>
+<button type="button" class="btn btn-info btn-sm">Info</button>
+<button type="button" class="btn btn-info btn-sm">Info</button>
+
 
 
 </div>
