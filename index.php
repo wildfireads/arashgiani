@@ -17,7 +17,7 @@
 <div class="header">
 
 
-Arash Giani
+<h1>Arash Giani</h1>
 
 
 <ul>
