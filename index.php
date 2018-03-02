@@ -14,30 +14,11 @@
   <body>
  
 
-<div class="header">
-
-  <div class="container">
-
-  <h1>Arash Giani</h1>
-
-
-  <ul>
-
-  <li>Home</li>
-  <li>Photography</li>
-  <li>Design</li>
-  <li>Development</li>
-  <li>Contact</li>  
-    
-  </ul>
-
-  </div>
-  
-</div>
+ 
 
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  
+
   <a class="navbar-brand" href="#">Arash Giani</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -47,7 +28,10 @@
 
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
-      <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">Photography</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">Design</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">Development</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
     </ul>
     
 
