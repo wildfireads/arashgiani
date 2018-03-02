@@ -15,11 +15,11 @@
   
 
 <div class="container" style="background-color: #fafafa; margin-bottom: 50px;">
-  Header
+  Arash Giani
 </div>
 
 
-<div class="container">
+<div class="container" style="background-color: #fafafa; margin-bottom: 50px;">
   Body
 </div>
 
